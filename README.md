@@ -1,4 +1,4 @@
-# Projeto-Integrador---Automatiza-o-de-Uma-Clin-ca-Veter-n-ria-em-Java
+# Projeto-Integrador---Automatizão-de-Uma-Clinica-Veterinaria-em-Java
 
 Projeto realizado em conjunto com os seguintes devs.
 
